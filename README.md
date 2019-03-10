@@ -127,7 +127,6 @@ Build Type                                                                      
 ## For more information
 
 *   [TensorFlow Website](https://www.tensorflow.org)
-*   [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
 *   [TensorFlow Model Zoo](https://github.com/tensorflow/models)
 *   [TensorFlow Twitter](https://twitter.com/tensorflow)
 *   [TensorFlow Blog](https://medium.com/tensorflow)
